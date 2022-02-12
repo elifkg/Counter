@@ -1,0 +1,25 @@
+.btn {
+    color: rgb(243, 243, 243);
+    background-color: rgb(236, 71, 98);
+    text-align: center;
+    text-decoration: none;
+    height: 40px;
+    font-size: 14px;
+    border-radius: 10px;
+    border-style: none;
+    padding: 2px 20px 2px 20px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgb(0, 0, 0, .12) 0 1px 18px 0;
+    font-weight: 700;   
+}
+
+.container{
+
+    justify-content: center;
+    text-align: center;
+}
+
+#value{
+    height: 300px;
+    width: 200px;
+}
